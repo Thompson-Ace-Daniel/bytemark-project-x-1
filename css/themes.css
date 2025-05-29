@@ -1,0 +1,13 @@
+:root {
+    /* Fonts */
+    --font-body: 'Roboto', sans-serif;
+    --font-body: 'Poppins', sans-serif;
+    --font-code: 'JetBrains Mono', monospace;
+    --font--accent: 'Playfair Display', serif;
+
+    /* Themes */
+    --color-black: #000000;
+    --color-white: #ffffff;
+    --color-navy: #030248;
+    --color-yellow: #fba10f;
+}
