@@ -1,26 +1,17 @@
-2. /frontend/
-Handles the client-side interface and user experience.
-/css/: Styling rules.
-style.css: Core styles (typography, layout).
-themes.css: Theme-specific styles (dark, light modes).
-animations.css: Custom animations and transitions.
-/js/: Handles interaction and logic for the frontend.
-app.js: Initializes app-wide JS functions.
-auth.js: Login and signup form handling, validations.
-dashboard.js: Manages user dashboard interactions.
-test.js: Loads and submits tests.
-result.js: Displays test results.
-admin.js: Handles admin panel interactions.
-pwa.js: Registers service worker, handles caching.
-/images/: Static images used in the site.
-/icons/: App icons, PWA-specific icons.
-manifest.json: Defines PWA metadata (name, icons, theme, start URL).
-service-worker.js: Handles caching strategies and offline fallback.
-index.html: Landing page.
-login.html: User login page.
-signup.html: User registration page.
-dashboard.html: User dashboard after login.
-test.html: Interface to take tests.
-result.html: Displays results after test submission.
-admin.html: Admin panel for CRUD operations.
-offline.html: Displayed when offline mode is triggered.
+#  Project X1
+
+[![Super-Linter](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/actions/workflows/linter.yml/badge.svg)](https://github.com/Thompson-Ace-Daniel/bytemark-project-x-1/actions)
+
+##  Description
+Project X1 is a web-based platform designed with a robust frontend in **HTML, CSS, and Vanilla JavaScript**, and a dynamic backend in **PHP** and **MySQL**. It features:
+- User authentication system.
+- Test-taking modules.
+- Admin-level CRUD operations.
+- Secure result management.
+
+##  Continuous Integration
+This project uses **GitHub Actions** with **Super-Linter** to ensure code quality and maintainability.
+- **Super-Linter** automatically checks for syntax errors, style issues, and more.
+- **CI Badge** above shows the current build status.
+
+##  Project Structure
